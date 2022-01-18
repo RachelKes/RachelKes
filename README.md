@@ -1,3 +1,6 @@
+### Rachel Nguyen
+I am pursuing a bachelor degree in Information Technology, University of Massachussets - Boston. 
+
 ### Hi there 👋
 
 <!--
