@@ -1,6 +1,6 @@
 ### Rachel Nguyen
 I am pursuing a bachelor degree in Information Technology at the [University of Massachussets - Boston](https://www.umb.edu/). 
-I am interested in big data, machine learning, web design, and cloud computing. I have an understanding of several programming languages, but I prefer Python. I also love experimenting with Excel, Tableau, R... In addition to studying at UMass, I have taken multiple online classes at other institutions. I love to work in groups and be part of a successful team collaberating on large projects that have a positive impact on the environment. My goal one day is to be a system adminitrator or a data scientist and lead a team of successful IT professionals. 
+I am interested in automation, big data, machine learning, web design, and cloud computing. I have an understanding of several programming languages, but I prefer Python. I also love experimenting with Excel, Tableau, R... In addition to studying at UMass, I have taken multiple online classes at other institutions. I love to work in groups and be part of a successful team collaborating on large projects that have a positive impact on the environment. 
 
 <!--
 **RachelKes/RachelKes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
