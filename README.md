@@ -3,7 +3,10 @@ I am pursuing a bachelor degree in Information Technology at the [University of 
 I am interested in automation, big data, machine learning, web design, and cloud computing. I have an understanding of several programming languages, but I prefer Python. I also love experimenting with Excel, Tableau, R... In addition to studying at UMass, I have taken multiple online classes at other institutions. I love to work in groups and be part of a successful team collaborating on large projects that have a positive impact on the environment. 
 
 
-## Connect with Me <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rachel-nguyen-b78b991b3" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/rachel-nguyen-b78b991b3?trk=profile-badge"> Rachel Nguyen</a></div>
+### Connect with Me 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rachel-nguyen-b78b991b3" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/rachel-nguyen-b78b991b3?trk=profile-badge">Rachel Nguyen</a></div>
+              
               
 <!--
 **RachelKes/RachelKes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
