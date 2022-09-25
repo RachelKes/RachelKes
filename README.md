@@ -1,7 +1,6 @@
 ### Rachel Nguyen
-I am pursuing a bachelor degree in Information Technology at the [University of Massachussets - Boston](https://www.umb.edu/). 
-I am interested in automation, big data, machine learning, web design, and cloud computing. I have an understanding of several programming languages, but I prefer Python. I also love experimenting with Excel, Tableau, R... In addition to studying at UMass, I have taken multiple online classes at other institutions. I love to work in groups and be part of a successful team collaborating on large projects that have a positive impact on the environment. 
-
+My major is Information Technology at the [University of Massachussets - Boston](https://www.umb.edu/). 
+I am interested in automation, big data, machine learning, web design, and cloud computing. 
 
 ##### Connect with Me:  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/rachel-nguyen-b78b991b3/) &nbsp;
 
