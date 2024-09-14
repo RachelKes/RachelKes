@@ -1,8 +1,5 @@
 ### Rachel Nguyen
-My major is Information Technology at the [University of Massachussets - Boston](https://www.umb.edu/). 
-I am interested in automation, big data, machine learning, web design, and cloud computing. 
 
-##### Connect with Me:  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/rachel-nguyen-b78b991b3/) &nbsp;
 
 
               
